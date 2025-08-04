@@ -20,7 +20,7 @@ java org.example.ChatServer
 3. Start the Clients
 Open multiple terminals and run the following command in each to start a client and you will be given a separate ID in ChatServer:
 java org.example.ChatClient
-<img width="597" height="317" alt="image" src="https://github.com/user-attachments/assets/c21b19b0-fa5d-42fa-91a0-9f8164200608" />
+<img width="1020" height="540" alt="image" src="https://github.com/user-attachments/assets/637e5f41-9f13-45d6-b544-5fa5c782df67" />
 
 
 
@@ -35,6 +35,6 @@ java org.example.ChatClient
 4. Usage
 •	Type messages in the client window; messages will be broadcast to all other clients.
 •	Type exit to disconnect a client.
- <img width="935" height="495" alt="image" src="https://github.com/user-attachments/assets/a6a8d6d0-d02f-4894-b8ef-f42fd5cb75b6" />
+<img width="827" height="588" alt="image" src="https://github.com/user-attachments/assets/6707194c-6515-4d24-882a-6fc0f0ed6f6a" />
 
 
